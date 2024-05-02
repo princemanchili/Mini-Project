@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[382],{1045:function(o){o.exports=JSON.parse('{"page_name":"Package Dash Wrapper","title":"{{ logo.wordmark }}","intro_text":"<p>Welcome to your dashboard.</p>","show_intro":true,"upgrade_banner":"Your package doesn\'t include {{ current.label }}.","upgrade_button":"Upgrade your account","download_button":{"text":"Download your logo","slug":"your-logo-files"}}')}}]);
+//# sourceMappingURL=4c12fad.js.map
